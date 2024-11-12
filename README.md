@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/64c34ece-5629-4967-a21a-7b6788e2a1ee)
+
 Overview
 
 Mobile Calculator App is a simple, user-friendly calculator designed for mobile devices. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division with a clean and intuitive interface.
